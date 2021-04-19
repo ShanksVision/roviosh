@@ -6,5 +6,5 @@
 * Added some cv capabilities for demo purposes
 
 ---
-[Link to summary presentation](RovioSh.pdf)
-[Link to Rovio API](Rovio_API_Specifications_v1.2.pdf)
+* [Link to summary presentation](RovioSh.pdf)
+* [Link to Rovio API](Rovio_API_Specifications_v1.2.pdf)
